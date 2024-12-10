@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vaicenotes.app",
+      "sha256_cert_fingerprints": [
+        "37:B8:81:05:E0:8C:7F:C3:9A:D4:EC:DD:02:EB:22:C4:DA:62:3A:CA:AD:47:AE:E9:C6:6E:88:9C:98:DE:FE:B1"
+      ]
+    }
+  }
+]
